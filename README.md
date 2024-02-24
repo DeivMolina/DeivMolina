@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DeivMolina.DeivMolina" />
+<div align="center">
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DeivMolina.DeivMolina" />
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=112FFF&random=false&width=435&lines=%C2%A1+Hola+que+tal+!%F0%9F%91%8B;Soy+Deivid+Molina+" alt="Typing SVG" />
