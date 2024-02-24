@@ -48,20 +48,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeivMolina" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeivMolina&langs_count=8" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; margin-right: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeivMolina" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; margin-left: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeivMolina&langs_count=8" />
+  </a>
+</div>
+
 
 
 <br/><br/>
