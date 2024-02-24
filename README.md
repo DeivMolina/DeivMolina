@@ -48,8 +48,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeivMolina)](https://github.com/anuraghazra/github-readme-stats)
+  [![DeivMolina GitHub stats](https://github-readme-stats.vercel.app/api?username=DeivMolina)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+[![DeivMolina GitHub stats](https://github-readme-stats.vercel.app/api?username=DeivMolina)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 
