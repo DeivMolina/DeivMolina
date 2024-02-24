@@ -48,7 +48,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<table>
+<table border="0">
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
