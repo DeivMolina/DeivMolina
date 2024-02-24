@@ -49,12 +49,13 @@
 <br>
 
 <div style="display: flex;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; margin-right: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeivMolina" />
+<a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; margin-right: 20px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeivMolina&langs_count=8&theme=dark" />
+  </a>  
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; margin-left: 20px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeivMolina&show_icons=true&theme=dark" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; margin-left: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeivMolina&langs_count=8" />
-  </a>
+  
 </div>
 
 
