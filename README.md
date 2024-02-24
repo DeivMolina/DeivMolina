@@ -52,7 +52,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; margin-right: 20px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeivMolina&langs_count=8&theme=dark" />
   </a>  
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; margin-left: 20px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; margin-left: 40px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeivMolina&show_icons=true&theme=dark" />
   </a>
   
