@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=112FFF&random=false&width=435&lines=%C2%A1+Hola+que+tal+!%F0%9F%91%8B;Soy+Deivid+Molina+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=440&lines=Hola%2C+Soy+Deivid+Molina+%F0%9F%96%A5%F0%9F%92%A5%F0%9F%92%A2" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Desarrollador FrontEnd Jr y proximamente FullStack 👑🖥️ </h3>
