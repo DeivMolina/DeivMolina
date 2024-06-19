@@ -12,7 +12,7 @@
 
 <div align="center">
  
-  🔭 Actualmente estoy trabajando en **Sistema modelo CRM**.
+  🔭 Actualmente estoy trabajando en **Sistema modelo CRM con QR**.
    
    🌱 Actualmente estoy aprendiendo **Mineria de Datos con Python**.
   
